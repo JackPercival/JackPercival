@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi!
+I'm Jack Percival, a Sofware Engineer from Newport Beach, California.
 
 <p>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
