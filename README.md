@@ -1,6 +1,8 @@
 ### Hi!
 I'm Jack Percival, a Sofware Engineer from Newport Beach, California. I have experience building full stack applications, advising on UI/UX decisions, managing large scale software development projects, and testing countless features.
 
+Visit my website at [jackpercival.io](https://jackpercival.io/) to learn more about me!
+
 <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
