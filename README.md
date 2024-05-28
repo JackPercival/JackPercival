@@ -1,5 +1,5 @@
 ### Hi!
-I'm Jack Percival, a Sofware Engineer from Newport Beach, California. I have experience building full stack applications, advising on UI/UX decisions, managing large scale software development projects, and testing countless features.
+I'm Jack Percival, a Sofware Development Engineer at Amazon. I have experience building full stack applications, advising on UI/UX decisions, managing large scale software development projects, and testing countless features.
 
 Visit my website at [jackpercival.io](https://jackpercival.io/) to learn more about me!
 
